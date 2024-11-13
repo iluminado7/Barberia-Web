@@ -1,0 +1,2 @@
+# Barberia-Web
+Paginas web desarrolladas de forma autonoma. ACLARACION: NO TIENE FUNCIONALIDAD PRESENTE. SOLO SON UNA MUESTRA DE ALGUNOS DE MIS DISEÑOS
